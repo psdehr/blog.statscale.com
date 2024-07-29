@@ -1,0 +1,41 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.{md,yml}"
+        ],
+        "exclude": [
+          "_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**",
+          "images/statscale.png"
+        ]
+      },
+      {
+        "files": ["css/**"]
+      }
+    ],
+    "output": "_site",
+    
+    "globalMetadata": {
+      "_appName": "",
+      "_appTitle": "Statscale",
+      "_enableSearch": true,
+      "pdf": true,
+      "_appLogoPath": "images/statscale.png"
+    },
+    "template": [
+      "default",
+      "modern"
+    ],
+    "styles": [
+      "css/custom.css"
+    ]    
+  }
+}
