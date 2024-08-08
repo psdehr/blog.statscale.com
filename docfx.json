@@ -14,7 +14,7 @@
       {
         "files": [
           "images/**",
-          "images/dehr.png"
+          "images/statscale.png"
         ]
       },
       {
@@ -28,7 +28,7 @@
       "_appTitle": "DEHR",
       "_enableSearch": true,
       "pdf": true,
-      "_appLogoPath": "images/dehr.png"
+      "_appLogoPath": "images/statscale.png"
     },
     "template": [
       "default",
