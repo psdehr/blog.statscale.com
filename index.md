@@ -3,4 +3,6 @@ _layout: landing
 title: Home
 ---
 
-## Welcome to my doc site
+## Investing review blog
+
+This site is designed for the review of finance books, podcasts on index and ETF investing.

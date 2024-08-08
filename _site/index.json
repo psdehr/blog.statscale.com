@@ -1,17 +1,32 @@
 {
+  "README.html": {
+    "href": "README.html",
+    "title": "| DEHR",
+    "keywords": "Finance Review Blog"
+  },
+  "books/getting-started.html": {
+    "href": "books/getting-started.html",
+    "title": "Getting Started | DEHR",
+    "keywords": "Getting Started"
+  },
+  "books/introduction.html": {
+    "href": "books/introduction.html",
+    "title": "Introduction | DEHR",
+    "keywords": "Introduction"
+  },
   "docs/getting-started.html": {
     "href": "docs/getting-started.html",
-    "title": "Getting Started | Statscale",
+    "title": "Getting Started | DEHR",
     "keywords": "Getting Started"
   },
   "docs/introduction.html": {
     "href": "docs/introduction.html",
-    "title": "Introduction | Statscale",
+    "title": "Introduction | DEHR",
     "keywords": "Introduction"
   },
   "index.html": {
     "href": "index.html",
-    "title": "Home | Statscale",
-    "keywords": "Welcome to my doc site"
+    "title": "Home | DEHR",
+    "keywords": "Investing review blog This site is designed for the review of finance books, podcasts on index and ETF investing."
   }
 }

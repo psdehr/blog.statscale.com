@@ -11,6 +11,49 @@
       }
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "books/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "books/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "books/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "books/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "books/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "books/toc.html"
+        },
+        ".json": {
+          "relative_path": "books/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "css/custom.css",
       "output": {
@@ -49,6 +92,16 @@
         },
         ".json": {
           "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/dehr.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/dehr.png"
         }
       },
       "version": ""

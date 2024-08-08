@@ -14,7 +14,7 @@
       {
         "files": [
           "images/**",
-          "images/statscale.png"
+          "images/dehr.png"
         ]
       },
       {
@@ -25,10 +25,10 @@
     
     "globalMetadata": {
       "_appName": "",
-      "_appTitle": "Statscale",
+      "_appTitle": "DEHR",
       "_enableSearch": true,
       "pdf": true,
-      "_appLogoPath": "images/statscale.png"
+      "_appLogoPath": "images/dehr.png"
     },
     "template": [
       "default",
